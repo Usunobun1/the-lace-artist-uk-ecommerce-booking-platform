@@ -2,8 +2,7 @@ Showcasing my booking system, branding, and digital design work.
 
 [Click here to try it](https://thelaceartistuk.as.me/schedule/3aff37d0)
 
-## ⭐ Features
-
+## 🫧 Features
 - **Online Booking System** powered by Acuity Scheduling  
 - **Customised Service Pages** with branding and descriptions  
 - **Automated Email Confirmations & Reminders**  
@@ -12,14 +11,12 @@ Showcasing my booking system, branding, and digital design work.
 - **User-friendly Interface** designed for fast bookings  
 - **Professional Layout** tailored for beauty and hairstyling services  
 
-## 🛠️ Technologies & Tools Used
-
+## ☁️ Technologies & Tools Used
 - **Acuity Scheduling** (booking engine & backend)  
 - **Custom HTML/CSS design elements** (where applicable)    
 - **Canva** (for branding assets and visuals)  
 
-## 📌 Purpose of This Project
-
+## 🕊️ Purpose of This Project
 This project demonstrates my ability to:
 
 - Set up and configure third-party booking software  
@@ -30,8 +27,7 @@ This project demonstrates my ability to:
 
 This website has been used to manage real customer appointments, handle high-volume traffic, and support a growing beauty/hair services brand.
 
-## 📂 What’s Included in This Repository
-
+## 🐚 What’s Included in This Repository
 Due to Acuity Scheduling being a hosted platform, the source structure is different from traditional HTML/CSS sites. This repository includes:
 
 - Screenshots of the final design
@@ -39,8 +35,7 @@ Due to Acuity Scheduling being a hosted platform, the source structure is differ
 - This README, explaining the build
 - Other Branding
 
-## 🚀 Future Improvements
-
+## ❄️ Future Improvements
 - Add a full custom front-end landing page  
 - Add a portfolio section  
 - Integrate automated reminders through Zapier  
