@@ -1,6 +1,6 @@
 Showcasing my booking system, branding, and digital design work.
 
-!click here!(thelaceartistuk.as.me)
+[Click here to try it](https://thelaceartistuk.as.me/schedule/3aff37d0))
 
 ## ⭐ Features
 
